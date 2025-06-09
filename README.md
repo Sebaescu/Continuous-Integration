@@ -3,3 +3,4 @@
 ## Integrantes
 
 * Johann Ramírez
+* Nehemias Lindao
